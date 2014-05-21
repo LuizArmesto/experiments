@@ -1,0 +1,10 @@
+Django==1.6.5
+Pillow==2.4.0
+PyPDF2==1.21
+argparse==1.2.1
+django-xhtml2pdf==0.0.3
+html5lib==0.999
+reportlab==3.1.8
+six==1.6.1
+wsgiref==0.1.2
+xhtml2pdf==0.0.6
